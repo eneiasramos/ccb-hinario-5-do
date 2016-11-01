@@ -1,4 +1,4 @@
-#Hinário nº 5 CCB em Dó (flauta, clarinete, oboé, fagote, trombone, bombardino e tuba)
+#Hinário nº 5 CCB em Dó (flauta, clarinete, oboé, fagote, trompete, trombone, bombardino e tuba)
 
 Este projeto é uma iniciativa que visa o desenvolvimento de um Hinário nº 5 da CCB para instrumentos afinados em Dó como a flauta, clarinete, oboé, fagote, trombone, bombardino e tuba.
 O objetivo é disponbilizar, em formato digital, uma versão do hinário original em dó.
