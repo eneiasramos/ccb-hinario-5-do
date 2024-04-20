@@ -22,6 +22,12 @@ Versões demonstrativas dos hinos podem ser encontradas no link:
 <h2>Download</h2>
 
 * [Baixe o arquivo PDF em Dó clicando aqui](https://raw.githubusercontent.com/eneiasramos/ccb-hinario-5-do/master/do/pdf/final.pdf)
+* [Baixe o arquivo PDF em Ré clicando aqui](https://raw.githubusercontent.com/eneiasramos/ccb-hinario-5-re/master/re/pdf/final.pdf)
+* [Baixe o arquivo PDF em Mib2sol clicando aqui](https://raw.githubusercontent.com/eneiasramos/ccb-hinario-5-mib-2s/master/mib-2s/pdf/final.pdf)
+* [Baixe o arquivo PDF em Fá clicando aqui](https://raw.githubusercontent.com/eneiasramos/ccb-hinario-5-fa/master/fa/pdf/final.pdf)
+* [Baixe o arquivo PDF em Sol clicando aqui](https://raw.githubusercontent.com/eneiasramos/ccb-hinario-5-sol/master/sol/pdf/final.pdf)
+* [Baixe o arquivo PDF em Lá clicando aqui](https://raw.githubusercontent.com/eneiasramos/ccb-hinario-5-la/master/la/pdf/final.pdf)
+* [Baixe o arquivo PDF em Sib clicando aqui](https://raw.githubusercontent.com/eneiasramos/ccb-hinario-5-sib/master/sib/pdf/final.pdf)
 
 <h2>Outros Hinários</h2>
 
